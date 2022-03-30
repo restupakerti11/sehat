@@ -52,7 +52,7 @@ $hasil=mysqli_query($con,$sql);
                 <textarea class="form-control" id="isipesan" name="isipesan" rows="3"></textarea>
             </div>
             <div class="col-12">
-                <input type="submit" name="kirim" value="kirim" class="btn btn-primary" />
+                <input type="kirim" name="kirim" value="kirim" class="btn btn-primary" />
             </div>
             </form>
             </div>
